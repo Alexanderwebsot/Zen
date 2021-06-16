@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap");
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url("../fonts/BebasNeuePro-Bold.eot");
+  src: local("../fonts/Bebas Neue Pro Bold"), local("../fonts/BebasNeuePro-Bold"), url("../fonts/BebasNeuePro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeuePro-Bold.woff2") format("woff2"), url("../fonts/BebasNeuePro-Bold.woff") format("woff"), url("../fonts/BebasNeuePro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url("../fonts/BebasNeuePro-Regular.eot");
+  src: local("../fonts/Bebas Neue Pro Regular"), local("../fonts/BebasNeuePro-Regular"), url("../fonts/BebasNeuePro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeuePro-Regular.woff2") format("woff2"), url("../fonts/BebasNeuePro-Regular.woff") format("woff"), url("../fonts/BebasNeuePro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsNEZBQVk7QUFFWixvRkFBWTtBQUVaO0VBQ0ksNkJBQTZCO0VBQzdCLDBDQUEwQztFQUMxQyxtVUFJNEQ7RUFDNUQsaUJBQWlCO0VBQ2pCLGtCQUFrQixFQUFBOztBQUV0QjtFQUNJLDZCQUE2QjtFQUM3Qiw2Q0FBNkM7RUFDN0MscVZBSStEO0VBQy9ELG1CQUFtQjtFQUNuQixrQkFBa0IsRUFBQSIsImZpbGUiOiJmb250cy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1Sb2JvdG86d2dodEA0MDA7NTAwOzcwMCZkaXNwbGF5PXN3YXAnKTtcclxuLy9mb250LWZhbWlseTogJ1JvYm90bycsIHNhbnMtc2VyaWY7XHJcbkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PVVidW50dTp3Z2h0QDcwMCZkaXNwbGF5PXN3YXAnKTtcclxuLy9mb250LWZhbWlseTogJ1VidW50dScsIHNhbnMtc2VyaWY7XHJcbkBmb250LWZhY2Uge1xyXG4gICAgZm9udC1mYW1pbHk6ICdCZWJhcyBOZXVlIFBybyc7XHJcbiAgICBzcmM6IHVybCgnLi4vZm9udHMvQmViYXNOZXVlUHJvLUJvbGQuZW90Jyk7XHJcbiAgICBzcmM6IGxvY2FsKCcuLi9mb250cy9CZWJhcyBOZXVlIFBybyBCb2xkJyksIGxvY2FsKCcuLi9mb250cy9CZWJhc05ldWVQcm8tQm9sZCcpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvQmViYXNOZXVlUHJvLUJvbGQuZW90PyNpZWZpeCcpIGZvcm1hdCgnZW1iZWRkZWQtb3BlbnR5cGUnKSxcclxuICAgICAgICB1cmwoJy4uL2ZvbnRzL0JlYmFzTmV1ZVByby1Cb2xkLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvQmViYXNOZXVlUHJvLUJvbGQud29mZicpIGZvcm1hdCgnd29mZicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvQmViYXNOZXVlUHJvLUJvbGQudHRmJykgZm9ybWF0KCd0cnVldHlwZScpO1xyXG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbiAgICBmb250LXN0eWxlOiBub3JtYWw7XHJcbn1cclxuQGZvbnQtZmFjZSB7XHJcbiAgICBmb250LWZhbWlseTogJ0JlYmFzIE5ldWUgUHJvJztcclxuICAgIHNyYzogdXJsKCcuLi9mb250cy9CZWJhc05ldWVQcm8tUmVndWxhci5lb3QnKTtcclxuICAgIHNyYzogbG9jYWwoJy4uL2ZvbnRzL0JlYmFzIE5ldWUgUHJvIFJlZ3VsYXInKSwgbG9jYWwoJy4uL2ZvbnRzL0JlYmFzTmV1ZVByby1SZWd1bGFyJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9CZWJhc05ldWVQcm8tUmVndWxhci5lb3Q/I2llZml4JykgZm9ybWF0KCdlbWJlZGRlZC1vcGVudHlwZScpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvQmViYXNOZXVlUHJvLVJlZ3VsYXIud29mZjInKSBmb3JtYXQoJ3dvZmYyJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9CZWJhc05ldWVQcm8tUmVndWxhci53b2ZmJykgZm9ybWF0KCd3b2ZmJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9CZWJhc05ldWVQcm8tUmVndWxhci50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyk7XHJcbiAgICBmb250LXdlaWdodDogbm9ybWFsO1xyXG4gICAgZm9udC1zdHlsZTogbm9ybWFsO1xyXG59Il19 */
